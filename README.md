@@ -2,7 +2,7 @@
 
 
 
-## <img width="90" alt="about" src="https://raw.githubusercontent.com/nicolasppereira/icons/master/icons8-account-100.png?token=GHSAT0AAAAAAB63XUOY3UROGK5OHNW56X62Y7OM6IA"> About me
+## <img width="90" alt="about" src="https://github.com/nicolasppereira/icons/blob/master/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966.gif?raw=true"> About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -39,7 +39,7 @@ typedef enum {
 [linkedin]: https://www.linkedin.com/in/nicolaspierim/
 <br>
 
-#### Rede Sociais!
+#### Social Media
 
 <!--🏡 [website][website] **|** -->
 🐦 [twitter][twitter] **|** 
