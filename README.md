@@ -4,7 +4,7 @@
 
 ## <img width="90" alt="about" src="https://github.com/nicolasppereira/icons/blob/master/icons8-account-100.png?raw=true"> About me
 
-<img align="right" width="300" src="https://github.com/nicolasppereira/icons/blob/master/Developer.gif?raw=true" />
+<img align="right" width="250" src="https://github.com/nicolasppereira/icons/blob/master/Developer.gif?raw=true" />
 
 ```
 typedef enum {
