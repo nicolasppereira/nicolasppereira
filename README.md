@@ -2,9 +2,9 @@
 
 
 
-## <img width="90" alt="about" src="https://github.com/nicolasppereira/icons/blob/master/icons8-account-100.png?raw=true"> About me
+## <img width="60" alt="about" src="https://github.com/nicolasppereira/icons/blob/master/icons8-account-100.png?raw=true"> About me
 
-<img align="right" width="120" src="https://github.com/nicolasppereira/icons/blob/master/dribbble_4.gif?raw=true" />
+<!--<img align="right" width="120" src="https://github.com/nicolasppereira/icons/blob/master/dribbble_4.gif?raw=true" />-->
 
 ```
 typedef enum {
