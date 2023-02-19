@@ -9,7 +9,8 @@
 ```
 typedef enum {
  name = 'Nicolas Pierim Pereira',
- acknowledgements = 'Embedded System and Database Administrator'
+ degree = 'Bacharelor in Computer Engineering',
+ acknowledgements = 'Embedded System, Database Administrator, IT Service Desk'
 
 } about_me;
 ```
